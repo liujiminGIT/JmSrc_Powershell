@@ -56,28 +56,28 @@ try{
            $companyShortName=""
            switch ($value) {
              "0001" {
-                 $companyShortName="AJICO"
+                 $companyShortName="A"
              }
-             "2305" {
-                 $companyShortName="AOC"
+             "0002" {
+                 $companyShortName="B"
              }
-             "2306" {
-                 $companyShortName="AJINA"
+             "0003" {
+                 $companyShortName="C"
              }
-             "4354" {
-                 $companyShortName="ABR"
+             "0004" {
+                 $companyShortName="D"
              }
-             "6432" {
-                 $companyShortName="SA"
+             "0005" {
+                 $companyShortName="E"
              }
-             "1304" {
-                 $companyShortName="AHS"
+             "0006" {
+                 $companyShortName="F"
              }
-             "2435" {
-                 $companyShortName="ASG"
+             "0007" {
+                 $companyShortName="G"
              }
-             "2359" {
-                 $companyShortName="AGX"
+             "0007" {
+                 $companyShortName="H"
              }
            }
         }
